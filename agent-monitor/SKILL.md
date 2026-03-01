@@ -45,7 +45,7 @@ openclaw hooks enable agent-monitor
 }
 ```
 
-If no channel ID is set, it falls back to the hardcoded default.
+A channel ID is required — set it via the env config shown above.
 
 ## How It Looks
 
